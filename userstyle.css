@@ -1,0 +1,92 @@
+img.emojie {
+  height: 5em !important;
+  width: 5em !important;
+}
+
+span.emojie {
+  font-size: 5em !important;
+}
+
+.selected-message.chat-message, 
+.selected-message.mention-message, 
+.selected-message.inbox-message, 
+.selected-message.info-message, 
+.selected-message.error-message, 
+.selected-message.single-message, 
+.selected-message.thread-activity-message, 
+.selected-message.thread-discussion-message,
+.chat-message, 
+.chat-message-list,
+.mention-message, 
+.inbox-message, 
+.info-message, 
+.error-message, 
+.single-message, 
+.thread-activity-message, 
+.thread-discussion-message,
+.chat-message.date-separator::before {
+	background: #3A3F40 !important;
+	color: #FFF !important;
+	border-color: #000 !important;
+}
+
+#toolbar,
+#inbox-toggle-item,
+.input-button,
+#search-form-item,
+#new-tab,
+.loader,
+.inbox-message-list,
+.message-form,
+.message-form fieldset,
+.autocomplete-option, 
+.ac,
+.notification,
+.flow,
+.new-tab-item .name,
+h1, h2, h3, h4, h5, h6
+.dropdown-menu,
+.dropdown-actions>li>a, 
+.dropdown-menu>li>a, 
+.dropdown-menu>.dropdown-wrapper>li>a {
+	background: #3A3F40 !important;
+	color: #FFF !important;
+}
+
+a,
+.inbox-message .title, 
+.info-message .title, 
+.error-message .title, 
+.single-message .title,
+.inbox-message .excerpt, 
+.info-message .excerpt, 
+.error-message .excerpt, 
+.single-message .excerpt {
+	color: #AAA !important;
+}
+
+a.mention,
+a.tag {
+	color: #333 !important;
+}
+
+input[type="text"], 
+input[type="email"], 
+input[type="password"], 
+input[type="url"], 
+select, 
+textarea, 
+.text-input, 
+.tokenist {
+	background: #555 !important;
+	color: #FFF !important;
+}
+
+.input-button {
+	box-shadow: none !important;
+}
+
+.right-item-group::before,
+.active .toolbar-toggle {
+	background: none !important;
+}
