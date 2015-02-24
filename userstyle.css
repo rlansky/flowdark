@@ -53,6 +53,17 @@ h1, h2, h3, h4, h5, h6
 	color: #FFF !important;
 }
 
+.inbox-comment-message,
+.single-view-content-wrap {
+	background: #4E5253 !important;
+	color: #FFF !important;
+}
+
+.static-header, 
+.floating-header {
+	background: #6A6B6C !important;
+}
+
 a,
 .inbox-message .title, 
 .info-message .title, 
