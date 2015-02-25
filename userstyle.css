@@ -68,6 +68,7 @@ h1, h2, h3, h4, h5, h6 {
 a,
 .error-message .excerpt, 
 .error-message .title, 
+.inbox-comment-message .timestamp,
 .inbox-message .excerpt, 
 .inbox-message .title, 
 .info-message .excerpt, 
