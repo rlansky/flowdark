@@ -5,6 +5,7 @@ img.emojie {
 
 span.emojie {
   font-size: 5em !important;
+  line-height: 1.2em !important;
 }
 
 .chat-message, 
