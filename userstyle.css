@@ -81,7 +81,8 @@ a,
 .info-message .excerpt, 
 .info-message .title, 
 .single-message .excerpt,
-.single-message .title {
+.single-message .title,
+.thread-activities .timestamp {
 	color: #AAA !important;
 }
 
