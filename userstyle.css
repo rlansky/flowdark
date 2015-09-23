@@ -26,7 +26,8 @@ code,
 .selected-message.thread-discussion-message,
 .single-message, 
 .thread-activity-message, 
-.thread-discussion-message {
+.thread-discussion-message,
+.thread-properties tr {
 	background: #3A3F40 !important;
 	color: #FFF !important;
 	border-color: #000 !important;
